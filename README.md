@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Alexanderwebmobile
+- 👋 Hi, I’m Oleksandr Bagrii
 - 👀 I’m interested in web and mobile development
 - 🌱 I’m currently learning Rubby on Rails
 - 💞️ I’m looking to collaborate on software development
